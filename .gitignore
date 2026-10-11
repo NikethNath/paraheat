@@ -1,0 +1,5 @@
+build/
+heat_serial
+heat_omp
+heat_mpi
+*.o
